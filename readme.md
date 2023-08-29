@@ -1,4 +1,4 @@
-# OSRS account creator
+# Top.gg auto voter claimer
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
