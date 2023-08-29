@@ -1,4 +1,4 @@
-const Scrappey = require("scrappey-wrapper");
+const Scrappey = require('scrappey-wrapper');
 
 /**
  * Check out our documentation here for more information: https://wiki.scrappey.com/
@@ -8,7 +8,7 @@ const SCRAPPEY_API_KEY = 'API_KEY';
 const scrappey = new Scrappey(SCRAPPEY_API_KEY);
 
 /**
- * Your discord auth key
+ * Your discord auth key/token
  */
 const DISCORD_AUTH = 'DISCORD_AUTH_KEY'
 
@@ -62,7 +62,7 @@ async function run() {
              */
             {
                 "type": "goto",
-                "url": "https://top.gg/bot/646937666251915264/vote",
+                "url": "https://top.gg/servers/1047485354212605952/vote",
             },
 
             /**
