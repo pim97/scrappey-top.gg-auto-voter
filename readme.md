@@ -30,3 +30,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Author: Pim97
 - GitHub: [Your GitHub Profile](https://github.com/pim97/)
+
+Keywords for Top.gg Auto Voting Program on GitHub:
+Top.gg Auto Voting, Discord Bots, Voting Automation, Server Growth, API Integration, Scheduled Voting, Bot Development, Community Engagement, Discord Servers, Bot Listing, Voting Rewards, API Tokens, Web Scraping, Automation Tools, Rate Limiting, Server Boosting
